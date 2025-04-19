@@ -1,2 +1,2 @@
 # first_view
-This is my first demo of git &amp; github.
+This is my first demo for git &amp; github.
